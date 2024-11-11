@@ -71,7 +71,7 @@ def main():
 
     # Footer message
     st.markdown(
-        "<hr><center>Developed with ❤️ by Sanket</center>",
+        "<hr><center>Developed with ❤️ by Akshat</center>",
         unsafe_allow_html=True
     )
 
